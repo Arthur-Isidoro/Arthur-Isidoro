@@ -59,5 +59,5 @@ O **Protein Tracker** é o meu principal laboratório de aprendizado. Comecei o 
 ---
 
 <div align="center">
-  💡 <i>"Sempre aprendendo, sempre construindo."</i>
+<i>"Sempre aprendendo, sempre construindo."</i>
 </div>
