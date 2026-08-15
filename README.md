@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Desenvolvedor Backend em formação</b><br>
-  🚀 Focado em construir aplicações reais com Python, SQL e Java.
+  Focado em construir aplicações reais com Python, SQL e Java.
 </p>
 
 ---
