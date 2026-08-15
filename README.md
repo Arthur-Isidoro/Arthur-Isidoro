@@ -2,8 +2,16 @@
 
 <p align="center">
   <b>Desenvolvedor Backend em formação</b><br>
-  🚀 Focado em construir aplicações sólidas em Python, SQL e Java.
+  🚀 Focado em construir aplicações reais com Python, SQL e Java.
 </p>
+
+---
+
+## 🙋‍♂️ Sobre mim
+
+Desenvolvedor backend em formação. Tenho focado meus estudos na construção de aplicações práticas, utilizando **Python** como linguagem principal para dominar conceitos fundamentais como Programação Orientada a Objetos, lógica e integração com bancos de dados relacionais (**MySQL**). 
+
+Atualmente, estou expandindo minha base teórica e prática aprendendo **Java**, com o objetivo de futuramente avançar para o ecossistema **Spring Boot**.
 
 ---
 
@@ -12,11 +20,9 @@
 ### 🛠️ Linguagens e Ferramentas
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,java,mysql,git,github&theme=dark" alt="Minhas Habilidades" />
+  </a>
 </p>
 
 </div>
@@ -25,18 +31,22 @@
 
 ### 📚 No meu radar de estudos
 
-* 🐍 **Python:** Programação Orientada a Objetos (POO) e boas práticas de arquitetura.
-* 🗄️ **Bancos de Dados:** Modelagem e otimização de consultas SQL.
-* ☕ **Java:** Fundamentos sólidos e sintaxe orientada a objetos.
-* 🎯 **Próximo passo:** Framework **Spring Boot** para desenvolvimento Web/REST API.
+* 🐍 **Python:** POO, estruturação de código e boas práticas (Linguagem principal).
+* 🗄️ **Bancos de Dados:** Modelagem relacional e consultas SQL.
+* ☕ **Java:** Fundamentos da linguagem e sintaxe (Estudando atualmente).
+* 🎯 **Próximo passo:** Framework **Spring Boot** para APIs RESTful.
 
 ---
 
-### 🚀 Projetos em Destaque
+### 🚀 Projeto Principal em Evolução
 
-| Projeto | Descrição | Techs | Link |
-| :--- | :--- | :--- | :--- |
-| **🥩 Protein Tracker** | Aplicação completa para acompanhamento e controle do consumo diário de proteínas. | `Python` `MySQL` `HTML/CSS` | [📂 Repositório](https://github.com/Arthur-Isidoro/Protein-Tracker) |
+### 🥩 [Protein Tracker](https://github.com/Arthur-Isidoro/Protein-Tracker)
+> Aplicação desenvolvida para acompanhamento e controle do consumo diário de proteínas.
+
+O **Protein Tracker** é o meu principal laboratório de aprendizado. Comecei o projeto para aplicar conceitos básicos de Python e venho evoluindo a aplicação continuamente — integrando persistência de dados com **MySQL** e aprimorando a estrutura do código conforme avanço nos estudos backend.
+
+* **Techs:** `Python` • `MySQL` • `HTML/CSS`
+* 🔗 [Acessar repositório do projeto](https://github.com/Arthur-Isidoro/Protein-Tracker)
 
 ---
 
