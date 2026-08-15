@@ -42,9 +42,8 @@
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Arthur-Isidoro&show_icons=true&theme=tokyonight&include_all_commits=true" alt="Estatísticas do GitHub" />
-  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Arthur-Isidoro&layout=compact&theme=tokyonight&hide=html,css" alt="Linguagens mais usadas" />
-</div>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arthur-Isidoro&theme=react-dark" width="100%" alt="Gráfico de Atividades" />
+</div>v>
 
 ---
 
