@@ -7,7 +7,7 @@
 
 ---
 
-## 🙋‍♂️ Sobre mim
+## Sobre mim
 
 Desenvolvedor backend em formação. Tenho focado meus estudos na construção de aplicações práticas, utilizando **Python** como linguagem principal para dominar conceitos fundamentais como Programação Orientada a Objetos, lógica e integração com bancos de dados relacionais (**MySQL**). 
 
@@ -31,16 +31,16 @@ Atualmente, estou expandindo minha base estudando **Java**, com o objetivo de fu
 
 ### 📚 No meu radar de estudos
 
-* 🐍 **Python:** POO, estruturação de código e boas práticas (Linguagem principal).
-* 🗄️ **Bancos de Dados:** Modelagem relacional e consultas SQL.
-* ☕ **Java:** Fundamentos da linguagem e sintaxe (Estudando atualmente).
-* 🎯 **Próximo passo:** **Spring Boot** para desenvolvimento de APIs REST.
+*  **Python:** POO, estruturação de código e boas práticas (Linguagem principal).
+*  **Bancos de Dados:** Modelagem relacional e consultas SQL.
+*  **Java:** Fundamentos da linguagem e sintaxe (Estudando atualmente).
+*  **Próximo passo:** **Spring Boot** para desenvolvimento de APIs REST.
 
 ---
 
 ### 🚀 Projeto Principal em Evolução
 
-🥩 **[Protein Tracker](https://github.com/Arthur-Isidoro/Protein-Tracker)**
+* **[Protein Tracker](https://github.com/Arthur-Isidoro/Protein-Tracker)**
 
 > Aplicação desenvolvida para acompanhamento e controle do consumo diário de proteínas.
 
