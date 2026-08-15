@@ -1,23 +1,24 @@
 # 👋 Olá, eu sou o Arthur!
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3776AB&width=435&lines=Desenvolvedor+Backend+em+forma%C3%A7%C3%A3o;Foco+em+Python%2C+SQL+e+Java;Transformando+teoria+em+projetos." alt="Typing SVG" />
-</div>
-
 <p align="center">
-  🚀 Apaixonado por tecnologia, focado em construir uma base sólida em desenvolvimento backend e transformar conceitos em software funcional.
+  <b>Desenvolvedor Backend em formação</b><br>
+  🚀 Focado em construir aplicações sólidas em Python, SQL e Java.
 </p>
 
 ---
 
+<div align="center">
+
 ### 🛠️ Linguagens e Ferramentas
 
-<div align="inline">
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
+
 </div>
 
 ---
@@ -39,11 +40,11 @@
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📊 Atividade no GitHub
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arthur-Isidoro&theme=react-dark" width="100%" alt="Gráfico de Atividades" />
-</div>v>
+</div>
 
 ---
 
