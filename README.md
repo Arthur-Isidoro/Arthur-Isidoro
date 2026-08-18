@@ -50,14 +50,6 @@ O **Protein Tracker** é o meu principal laboratório de aprendizado. Comecei o 
 
 ---
 
-### 📊 Atividade no GitHub
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arthur-Isidoro&theme=react-dark" width="100%" alt="Gráfico de Atividades" />
-</div>
-
----
-
 <div align="center">
 <i>"Sempre aprendendo, sempre construindo."</i>
 </div>
