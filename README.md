@@ -1,6 +1,6 @@
-<h1 align="center">👋 Hello, I'm Arthur!</h1>
+<h1>👋 Hello, I'm Arthur!</h1>
 
-<p align="center">
+<p>
   <b>Backend Developer in Training</b><br>
   Focused on building real-world applications with Python, SQL, and Java.
 </p>
