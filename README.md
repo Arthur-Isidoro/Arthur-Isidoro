@@ -1,55 +1,82 @@
-# 👋 Olá, eu sou o Arthur!
+<h1 align="center">👋 Hello, I'm Arthur!</h1>
 
 <p align="center">
-  <b>Desenvolvedor Backend em formação</b><br>
-  Focado em construir aplicações reais com Python, SQL e Java.
+  <b>Backend Developer in Training</b><br>
+  Focused on building real-world applications with Python, SQL, and Java.
 </p>
 
----
+<hr>
 
-## Sobre mim
+<h2>About Me</h2>
 
-Desenvolvedor backend em formação. Tenho focado meus estudos na construção de aplicações práticas, utilizando **Python** como linguagem principal para dominar conceitos fundamentais como Programação Orientada a Objetos, lógica e integração com bancos de dados relacionais (**MySQL**). 
+<p>
+  I'm a backend developer in training, focused on building practical applications and strengthening my programming fundamentals.
+</p>
 
-Atualmente, estou expandindo minha base estudando **Java**, com o objetivo de futuramente avançar para o ecossistema **Spring Boot**.
+<p>
+  I started my development journey with <strong>Python</strong>, where I built projects while learning programming logic, Object-Oriented Programming, code structure, and relational databases with <strong>SQL</strong>.
+</p>
 
----
+<p>
+  I'm currently focusing on <strong>Java backend development</strong>, studying <strong>Object-Oriented Programming, JDBC, JPA, Spring Boot, and REST APIs</strong>.
+</p>
+
+<hr>
 
 <div align="center">
 
-### 🛠️ Linguagens e Ferramentas
+<h3>🛠️ Languages & Tools</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,mysql,git,github&theme=dark" alt="Minhas Habilidades" />
+    <img src="https://skillicons.dev/icons?i=py,java,mysql,git,github&theme=dark" alt="Languages and Tools" />
   </a>
 </p>
 
 </div>
 
----
+<hr>
 
-### 📚 No meu radar de estudos
+<h3>📚 Current Focus</h3>
 
-*  **Python:** POO, estruturação de código e boas práticas (Linguagem principal).
-*  **Bancos de Dados:** Modelagem relacional e consultas SQL.
-*  **Java:** Fundamentos da linguagem e sintaxe (Estudando atualmente).
-*  **Próximo passo:** **Spring Boot** para desenvolvimento de APIs REST.
+<ul>
+  <li><strong>Java:</strong> Object-Oriented Programming and core language concepts.</li>
+  <li><strong>SQL & JDBC:</strong> Database integration and data access.</li>
+  <li><strong>JPA:</strong> Data persistence and ORM.</li>
+  <li><strong>Spring Boot:</strong> REST API development.</li>
+  <li><strong>REST APIs:</strong> Building backend services.</li>
+</ul>
 
----
+<hr>
 
-### 🚀 Projeto Principal em Evolução
+<h3>🚀 Main Project</h3>
 
-* **[Protein Tracker](https://github.com/Arthur-Isidoro/Protein-Tracker)**
+<ul>
+  <li>
+    <strong>
+      <a href="https://github.com/Arthur-Isidoro/Protein-Tracker">Protein Tracker</a>
+    </strong>
+  </li>
+</ul>
 
-> Aplicação desenvolvida para acompanhamento e controle do consumo diário de proteínas.
+<blockquote>
+  An application designed to help users track and manage their daily protein intake.
+</blockquote>
 
-O **Protein Tracker** é o meu principal laboratório de aprendizado. Comecei o projeto para aplicar conceitos básicos de Python e venho evoluindo a aplicação continuamente — integrando persistência de dados com **MySQL** e aprimorando a estrutura do código conforme avanço nos estudos backend.
+<p>
+  <strong>Protein Tracker</strong> is my main learning project and development laboratory. I started it to apply Python fundamentals in a real application and have been continuously improving it throughout my learning journey.
+</p>
 
-`Python` • `MySQL` • `HTML/CSS`
+<p>
+  The project has evolved from a simple Python application into a more structured project with <strong>MySQL</strong> database integration, while I continue improving its architecture and backend concepts.
+</p>
 
----
+<p>
+  <code>Python</code> • <code>MySQL</code> • <code>HTML/CSS</code>
+</p>
+
+<hr>
 
 <div align="center">
-<i>"Sempre aprendendo, sempre construindo."</i>
+  <i>"Always learning, always building."</i>
 </div>
