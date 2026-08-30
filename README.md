@@ -40,8 +40,6 @@
 <h3>📚 Current Focus</h3>
 
 <ul>
-  <li><strong>Java:</strong> Object-Oriented Programming and core language concepts.</li>
-  <li><strong>SQL & JDBC:</strong> Database integration and data access.</li>
   <li><strong>JPA:</strong> Data persistence and ORM.</li>
   <li><strong>Spring Boot:</strong> REST API development.</li>
   <li><strong>REST APIs:</strong> Building backend services.</li>
