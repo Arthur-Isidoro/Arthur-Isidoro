@@ -1,4 +1,4 @@
-<h1>👋 Hello, I'm Arthur!</h1>
+<h1> Hello, I'm Arthur!</h1>
 <p>
   <b>Backend Developer in Training</b><br>
   Focused on building real-world backend applications with Java, SQL, and Python.
@@ -16,7 +16,7 @@
 </p>
 <hr>
 <div align="center">
-<h3>🛠️ Languages & Tools</h3>
+<h3>Languages & Tools</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,java,mysql,git&theme=dark" alt="Languages and Tools" />
@@ -24,7 +24,7 @@
 </p>
 </div>
 <hr>
-<h3>📚 Current Focus</h3>
+<h3> Current Focus</h3>
 <ul>
   <li><strong>Java & OOP:</strong> object-oriented design applied to real projects.</li>
   <li><strong>JDBC & SQL:</strong> raw database access, without an ORM.</li>
